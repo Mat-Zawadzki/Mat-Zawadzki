@@ -2,12 +2,9 @@
 
 
 I'm currently working on OpenGL/GLFW/GLAD in C++  to make a game from scratch. Yes wish me luck!
-
-
-
+<br><br>
 I urge you to look through my other repositories - even though I still need to clean them up. 
-
-
+<br><br>
 I'm looking for a Data analyst or a software engineering position
 
 
