@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Mateusz Zawadzki
+# Hi 👋 I'm Mateusz Zawadzki
 
 
 I'm currently working on a 2d platformer in C++ using OpenGL. Yes wish me luck!
