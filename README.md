@@ -1,7 +1,6 @@
-# Hi 👋 I'm Mateusz Zawadzki
-
-
-I'm currently working on a 2d platformer in C++ using OpenGL. Yes wish me luck!
+# Hi there! 👋 
+## About Me
+I'm a 20 year old currently studying 
 <br><br><br><br>
 I urge you to look through my other repositories - even though I still need to clean them up. 
 <br><br><br><br>
