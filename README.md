@@ -1,6 +1,10 @@
 # Hi there! 👋 
 ## About Me
-I'm a 20 year old currently working towards a Mathematics Bsc degree
+I'm a 20 year old currently working towards a Mathematics Bsc degree 
+<br>
+
+
+I've completed the Data Analyst pathway with AiCore, and looking for a possition in the field.
 <br><br><br><br>
 I urge you to look through my other repositories - even though I still need to clean them up. 
 <br><br><br><br>
