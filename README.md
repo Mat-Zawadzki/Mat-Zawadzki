@@ -1,6 +1,6 @@
 # Hi there! 👋 
 ## About Me
-I'm a 20 year old currently studying 
+I'm a 20 year old currently working towards a Mathematics Bsc degree
 <br><br><br><br>
 I urge you to look through my other repositories - even though I still need to clean them up. 
 <br><br><br><br>
