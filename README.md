@@ -4,7 +4,7 @@ I'm a 20 year old programmer currently working towards the Microsoft PL-300 Exam
 <br>
 
 
-I've completed the Data Analyst pathway with AiCore, and looking for a position in the field.
+I've completed the Data Analyst pathway with AiCore, and looking for a position in the field
 <br><br><br><br>
 
 
