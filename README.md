@@ -3,7 +3,7 @@
 I'm a 20 year old programmer currently working towards the Microsoft PL-300 Exam!
 
 I've completed the Data Analyst pathway with AiCore, and looking for a position in the field
-<br>
+<br><br>
 
 ## Some cool stuff I've been working on ⛄
 - Created my own website, hosted on AWS 
