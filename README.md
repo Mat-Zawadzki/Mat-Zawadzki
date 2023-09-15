@@ -6,13 +6,23 @@ I've completed the Data Analyst pathway with AiCore, and looking for a position 
 <br><br>
 
 ## Some cool stuff I've been working on ⛄
-Created my own websitr, hosted on AWS 
-Helped create a website for a start-clothing brand - Desihned their main logo! 
+- Created my own website, hosted on AWS 
+- Helped create a website for a start-up clothing brand - Designed their main logo
+- Creating a drone
+
+<br><br>
+
+## Currently learning 🤓
+- Networking alongside Kali Linux
+- Revising for my PL-300 exam - learning Microsoft Power BI
 
 <br> <br>
 
 ## How to reach me 🛰️
 Email: Mat.Zawadzki@hotmail.com
+
+
+
 <!--
 **Mat-Zawadzki/Mat-Zawadzki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
