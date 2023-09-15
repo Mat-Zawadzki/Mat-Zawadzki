@@ -4,11 +4,16 @@ I'm a 20 year old programmer currently working towards the Microsoft PL-300 Exam
 <br>
 
 
-I've completed the Data Analyst pathway with AiCore, and looking for a position in the field!
+I've completed the Data Analyst pathway with AiCore, and looking for a position in the field
 <br><br><br><br>
 
+##Some cool stuff I have/am working on ⛄
+Created my own websitr, hosted on AWS 
+Helped create a website for a start-clothing brand - Desihned their main logo! 
 
+<br> <br>
 
+## How to reach me 🛰️
 Email: Mat.Zawadzki@hotmail.com
 <!--
 **Mat-Zawadzki/Mat-Zawadzki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
