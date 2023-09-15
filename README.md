@@ -3,23 +3,21 @@
 I'm a 20 year old programmer currently working towards the Microsoft PL-300 Exam!
 
 I've completed the Data Analyst pathway with AiCore, and looking for a position in the field
-<br><br>
+<br>
 
 ## Some cool stuff I've been working on ⛄
 - Created my own website, hosted on AWS 
 - Helped create a website for a start-up clothing brand - Designed their main logo
 - Creating a drone
-
-<br><br>
+<br>
 
 ## Currently learning 🤓
 - Networking alongside Kali Linux
 - Revising for my PL-300 exam - learning Microsoft Power BI
-
-<br> <br>
+<br> 
 
 ## How to reach me 🛰️
-Email: Mat.Zawadzki@hotmail.com
+Email: Mat.Zawadzki@hotmail.com <br>
 LinkedIn: https://www.linkedin.com/in/mateusz-zawadzki-4a0772227 
 
 
