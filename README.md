@@ -20,6 +20,7 @@ I've completed the Data Analyst pathway with AiCore, and looking for a position 
 
 ## How to reach me 🛰️
 Email: Mat.Zawadzki@hotmail.com
+LinkedIn: https://www.linkedin.com/in/mateusz-zawadzki-4a0772227 
 
 
 
