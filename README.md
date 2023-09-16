@@ -5,10 +5,13 @@ I'm a 20 year old programmer currently working towards the Microsoft PL-300 Exam
 I've completed the Data Analyst pathway with AiCore, and looking for a position in the field
 <br><br>
 
+## My main Repositories 🏛️
+- Flights migrstion to Tableau
+
 ## Some cool stuff I've been working on ⛄
 - Created my own website, hosted on AWS 
 - Helped create a website for a start-up clothing brand - Designed their main logo
-- Creating a drone
+- Creating a drone from scratch
 <br>
 
 ## Currently learning 🤓
