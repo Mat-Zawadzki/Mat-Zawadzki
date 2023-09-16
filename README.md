@@ -7,6 +7,7 @@ I've completed the Data Analyst pathway with AiCore, and looking for a position 
 
 ## My main Repositories 🏛️
 - Flights migrstion to Tableau
+<br>
 
 ## Some cool stuff I've been working on ⛄
 - Created my own website, hosted on AWS 
