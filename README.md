@@ -6,7 +6,7 @@ I've completed the Data Analyst pathway with AiCore, and looking for a position 
 <br><br>
 
 ## My main Repositories 🏛️
-- Flights migrstion to Tableau
+- Flights migration to Tableau. Going to improve this by using Microsoft Power BI
 <br>
 
 ## Some cool stuff I've been working on ⛄
