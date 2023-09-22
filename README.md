@@ -1,4 +1,4 @@
-# Hi there! 👋 
+# Hi there! 👋 My name is Mat
 ## About Me 🏴‍☠️
 I'm a 20 year old programmer currently working towards the Microsoft PL-300 Exam!
 
