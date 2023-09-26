@@ -6,14 +6,20 @@ I've just finished the course on Udemy, now going to take the Exam, wish me luck
 I've completed the Data Analyst pathway with AiCore, and looking for a position in the field
 <br><br>
 
-## My main Repositories 🏛️
-- Flights migration to Tableau. Going to improve this by using Microsoft Power BI
+## My main Repositories 🏛️ - Skills used alongside them
+- Flights migration to Tableau. Going to improve this by using Microsoft Power BI for a Data analyst role
 <br>
 
 ## Some cool stuff I've been working on ⛄
 - Created my own website, hosted on AWS 
 - Helped create a website for a start-up clothing brand - Designed their main logo
 - Creating a drone from scratch
+<br>
+
+## Achievements
+- Created my own website, hosted on AWS
+- A-levels: Maths, Further Maths and Physics at AAB respectfully
+- 
 <br>
 
 ## Currently learning 🤓
