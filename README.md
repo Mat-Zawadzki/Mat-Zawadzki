@@ -19,7 +19,6 @@ I've completed the Data Analyst pathway with AiCore, and looking for a position 
 ## Achievements
 - Created my own website, hosted on AWS
 - A-levels: Maths, Further Maths and Physics at AAB respectfully
-- 
 <br>
 
 ## Currently learning 🤓
