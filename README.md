@@ -1,4 +1,4 @@
-# <ins>Hi there!</ins> 👋 
+# Hi there! 👋 
 ## <ins>About Me</ins> 🏴‍☠️
 I'm a 20 year old programmer currently working towards the Microsoft PL-300 Exam
 I've just finished the course on Udemy, now going to take the Exam, wish me luck!
