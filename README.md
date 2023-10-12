@@ -6,7 +6,10 @@ I've just finished the course on Udemy, now going to take the Exam, wish me luck
 I've completed the Data Analyst pathway with AiCore, and looking for a position in the field while completing another in Data Engineering.<br><br>
 
 ## My main Repositories 🏛️ - Skills used alongside them
-- Flights migration to Tableau. Going to improve this by using Microsoft Power BI for a Data analyst role
+- Flights migration to Tableau. Going to improve this by using Microsoft Power BI for a Data analyst role:
+https://github.com/Mat-Zawadzki/data-analytics-migration-to-tableau
+- Hand Tracking Module. Tracks and shows where your hands are!
+https://github.com/Mat-Zawadzki/hand-tracking-module
 <br>
 
 ## Some cool stuff I've been working on ⛄
