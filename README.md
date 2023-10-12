@@ -3,8 +3,7 @@
 I'm a 20 year old programmer currently working towards the Microsoft PL-300 Exam
 I've just finished the course on Udemy, now going to take the Exam, wish me luck!
 
-I've completed the Data Analyst pathway with AiCore, and looking for a position in the field
-<br><br>
+I've completed the Data Analyst pathway with AiCore, and looking for a position in the field while completing another in Data Engineering.<br><br>
 
 ## My main Repositories 🏛️ - Skills used alongside them
 - Flights migration to Tableau. Going to improve this by using Microsoft Power BI for a Data analyst role
@@ -16,14 +15,18 @@ I've completed the Data Analyst pathway with AiCore, and looking for a position 
 - Creating a drone from scratch
 <br>
 
-## Achievements
-- Created my own website, hosted on AWS
-- A-levels: Maths, Further Maths and Physics at AAB respectfully
+## Certificates / Certifications /Dimplomas ect
+- A-level Maths: A
+- A-level Further Maths: A
+- A-level Physics: B
+- Ai-Core Data analyst
+- Ai-Core Software Engineer
+- Udemy PL-300
 <br>
 
 ## Currently learning 🤓
-- Networking alongside Kali Linux
-- Revising for my PL-300 exam - learning Microsoft Power BI
+- Amazon MSK
+- Revising for my PL-300 exam
 <br> 
 
 ## How to reach me 🛰️
