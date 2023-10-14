@@ -22,8 +22,8 @@ https://github.com/Mat-Zawadzki/hand-tracking-module
 - A-level Maths: A
 - A-level Further Maths: A
 - A-level Physics: B
-- Ai-Core Data analyst
-- Ai-Core Software Engineer
+- Ai-Core Data analyst Certificate
+- Ai-Core Software Engineer Certificate
 - Udemy PL-300
 <br>
 
