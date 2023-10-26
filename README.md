@@ -28,7 +28,7 @@ https://github.com/Mat-Zawadzki/hand-tracking-module
 <br>
 
 ## <ins>Currently learning</ins> 🤓
-- Amazon MSK
+- Completing AiCore's data engineering project
 - Revising for my PL-300 exam
 <br> 
 
