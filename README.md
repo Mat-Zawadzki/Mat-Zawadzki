@@ -12,26 +12,6 @@ https://github.com/Mat-Zawadzki/data-analytics-migration-to-tableau
 https://github.com/Mat-Zawadzki/hand-tracking-module
 <br>
 
-## <ins>Some cool stuff I've been working on</ins> ⛄
-- Created my own website, hosted on AWS 
-- Helped create a website for a start-up clothing brand - Designed their main logo
-- Creating a drone from scratch
-<br>
-
-## <ins>Certificates / Certifications / Diplomas ect</ins> 🪪
-- A-level Maths: A
-- A-level Further Maths: A
-- A-level Physics: B
-- Ai-Core Data analyst Certificate
-- Ai-Core Software Engineer Certificate
-- Udemy PL-300
-<br>
-
-## <ins>Currently learning</ins> 🤓
-- Completing AiCore's data engineering project
-- Revising for my PL-300 exam
-<br> 
-
 ## <ins>How to reach me</ins> 🛰️
 Email: Mat.Zawadzki@hotmail.com <br>
 LinkedIn: https://www.linkedin.com/in/mateusz-zawadzki-4a0772227 
