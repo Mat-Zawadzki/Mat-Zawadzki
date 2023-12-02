@@ -13,7 +13,6 @@ https://github.com/Mat-Zawadzki/hand-tracking-module
 <br>
 
 ## <ins>How to reach me</ins> 🛰️
-Email: Mat.Zawadzki@hotmail.com <br>
 LinkedIn: https://www.linkedin.com/in/mateusz-zawadzki-4a0772227 
 
 
