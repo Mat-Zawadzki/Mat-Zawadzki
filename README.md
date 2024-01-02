@@ -1,9 +1,8 @@
 # Hi there! 👋 
 ## <ins>About Me</ins> 🏴‍☠️
-I'm a 20 year old programmer currently working towards the Microsoft PL-300 Exam
-I've just finished the course on Udemy, now going to take the Exam, wish me luck!
+I'm a 21 year old support engineer
 
-I've completed the Data Analyst pathway with AiCore, and looking for a position in the field while completing another in Data Engineering.<br><br>
+I've completed the Data Analyst pathway with AiCore.<br><br>
 
 ## <ins>My Main Repositories</ins> 🏛️
 - Flights migration to Tableau. Going to improve this by using Microsoft Power BI for a Data analyst role:
