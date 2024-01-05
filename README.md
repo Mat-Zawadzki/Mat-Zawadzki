@@ -7,7 +7,7 @@ I've completed the Data Analyst pathway with AiCore.<br><br>
 ## <ins>My Main Repositories</ins> 🏛️
 - Exploratory Data Anlysis project with customer loans in Finance.   <br>
 (https://github.com/Mat-Zawadzki/Finance-Exploratory-Data-Analysis)
-- Hand Tracking Module. Tracks and shows where your hands are!
+- Hand Tracking Module. Tracks and shows where your hands are!  <br>
 https://github.com/Mat-Zawadzki/hand-tracking-module
 <br>
 
