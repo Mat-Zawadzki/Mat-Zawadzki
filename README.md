@@ -5,11 +5,11 @@ I'm a 21 year old support engineer
 I've completed the Data Analyst pathway with AiCore.<br><br>
 
 ## <ins>My Main Repositories</ins> 🏛️
-PowerBi Report Project <br>
+PowerBi Report Project \
 [[(https://github.com/Mat-Zawadzki/Finance-Exploratory-Data-Analysis)](https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report)](https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report)
 <br>
 
-Exploratory Data Analysis project with customer loans in Finance <br>
+Exploratory Data Analysis project with customer loans in Finance \
 [(https://github.com/Mat-Zawadzki/Finance-Exploratory-Data-Analysis)](https://github.com/Mat-Zawadzki/Finance-Exploratory-Data-Analysis)
 <br>
 
