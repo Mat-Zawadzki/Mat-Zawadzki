@@ -5,8 +5,17 @@ I'm a 21 year old support engineer
 I've completed the Data Analyst pathway with AiCore.<br><br>
 
 ## <ins>My Main Repositories</ins> 🏛️
-- Exploratory Data Analysis project with customer loans in Finance.   <br>
-(https://github.com/Mat-Zawadzki/Finance-Exploratory-Data-Analysis)
+- PowerBi Report Project
+<br>
+[(https://github.com/Mat-Zawadzki/Finance-Exploratory-Data-Analysis)](https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report)
+<br>
+<br>
+
+- Exploratory Data Analysis project with customer loans in Finance.
+<br>
+[(https://github.com/Mat-Zawadzki/Finance-Exploratory-Data-Analysis)](https://github.com/Mat-Zawadzki/Finance-Exploratory-Data-Analysis)
+<br>
+
 - Hand Tracking Module. Tracks and shows where your hands are!  <br>
 https://github.com/Mat-Zawadzki/hand-tracking-module
 <br>
