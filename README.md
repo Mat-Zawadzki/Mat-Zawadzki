@@ -12,6 +12,7 @@ PowerBi Report Project: \
 Exploratory Data Analysis project with customer loans in Finance: \
 [(https://github.com/Mat-Zawadzki/Finance-Exploratory-Data-Analysis)](https://github.com/Mat-Zawadzki/Finance-Exploratory-Data-Analysis)
 <br>
+<br>
 
 
 ## <ins>How to reach me</ins> 🛰️
