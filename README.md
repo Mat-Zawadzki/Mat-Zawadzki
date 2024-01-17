@@ -6,7 +6,7 @@ I've completed the Data Analyst pathway with AiCore.<br><br>
 
 ## <ins>My Main Repositories</ins> 🏛️
 PowerBi Report Project \
-[[(https://github.com/Mat-Zawadzki/Finance-Exploratory-Data-Analysis)](https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report)](https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report)
+[(https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report)](https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report)
 <br>
 
 Exploratory Data Analysis project with customer loans in Finance \
