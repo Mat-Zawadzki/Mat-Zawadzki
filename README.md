@@ -1,8 +1,8 @@
 # Hi there! 👋 
 ## <ins>About Me</ins> 🏴‍☠️
-I'm a 21 year old support engineer
+21 years old with Support Engineering experience in Data analysis and Data engineering.
 
-I've completed the Data Analyst pathway with AiCore.<br><br>
+<br><br>
 
 ## <ins>My Main Repositories</ins> 🏛️
 PowerBi Report Project: \
