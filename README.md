@@ -1,6 +1,9 @@
 # Hi there! 👋 
 ## <ins>About Me</ins> 🏴‍☠️
-21 years old with Support Engineering experience in Data analysis and Data engineering.
+Experience with Support Engineering experience in Data analysis and Data engineering.
+
+Currently working on an RTS game in C++, using OpenGL, ImGUI, GLEW and GLFW. 
+Creating my own pathfinding algorithm, incorporating A* nad MAPF for optmised multi agent computation.
 
 <br><br>
 
