@@ -26,6 +26,12 @@ Exploratory Data Analysis project with customer loans in Finance: \
 <br>
 <br>
 
+Data Engineering Project with simulated Pinterest data sets: \
+[(https://github.com/Mat-Zawadzki/pinterest-data-pipeline)](https://github.com/Mat-Zawadzki/pinterest-data-pipeline)
+<br>
+<br>
+
+
 
 ## <ins>How to reach me</ins> 🛰️
 LinkedIn: https://www.linkedin.com/in/mateusz-zawadzki-4a0772227 
