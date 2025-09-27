@@ -1,17 +1,6 @@
 # Hi there! 👋 
 ## <ins>About Me</ins> 🏴‍☠️
-Support Engineering experience in Data analysis and Data engineering.
-
-Currently working on an RTS game in C++, using OpenGL, ImGUI, GLEW and GLFW. 
-Created so far:
-  - An OpenGL rendering pipeline + model caching system.
-  - my own movement system using A* pathfinder algorithm, Flowfields and a hierarchy system.
-  - 3D Blender models 
-  - A python script to export the models
-  - C++ functions to read the custom files onto the GPU
-  - Physics / Collisions
-  - Custom Shaders
-  - Entity Management System (have used ECS)
+Code + data
 
 <br><br>
 
